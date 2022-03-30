@@ -48,6 +48,11 @@
             "name": "CSS文件",
             "suffix": ".css",
             "comment": ["/*multi*/", "/**multi*/"]
+        },
+        {
+            "name": "GameMaker工程文件",
+            "suffix": ".gml",
+            "comment": ["//", "/*multi*/", "/**multi*/"]
         }
     ]
 }
